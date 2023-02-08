@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    
+}
+
+
+.grid {
+    width: 560px;
+    height: 560px;
+    display: grid;
+    border: 2px solid black;
+}
